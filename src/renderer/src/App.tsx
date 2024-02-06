@@ -1,5 +1,5 @@
 function App(): JSX.Element {
-  return <div className="creator">Powered by electron-vite</div>
+  return <div className="text-red-300">Powered by electron-vite</div>
 }
 
 export default App
